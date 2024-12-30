@@ -1,4 +1,4 @@
-print("hello")
+
 print('vamsi')
 a = 10
 print(a)
